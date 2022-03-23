@@ -1,0 +1,98 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.logo {
+    color: orange;
+    font-size: 30px;
+}
+
+#meniu {
+    align-items: center;
+}
+
+#blue {
+    background-image: url("../images/cargo_sea_big.jpg");
+    text-align: center;
+    height: 500px;
+    padding: 100px;
+    position: relative;
+}
+
+.blueFront {
+    z-index: 1;
+    position: relative;
+}
+
+#overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(35, 158, 230, 0.6);
+}
+
+a:hover {
+    color: orange;
+}
+
+  .card {
+    padding: 20px;
+    margin: 10px;
+    height: 250px;
+}
+
+.card h3 {
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+i.fa {
+    font-size: 20px;
+    padding: 8px;
+    color: orange;
+}
+
+div h3 {
+    padding: 8px;
+}
+
+div p {
+    padding: 8px;
+}
+
+.image {
+    float: right;
+    height: 150px;
+}
+
+.whyUs {
+    height: 500px;
+    padding: 50px;
+}
+
+h4 {
+    color: orange;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+.threeImages {
+    height: 400px;
+    margin-top: -20px;
+}
+
+.orange {
+    color: orange;
+}
+
+footer {
+    height: 90px;
+}
+
+li a {
+    color: black;
+}
